@@ -6,12 +6,6 @@ Project Name: City Weather App
 Description
 City Weather App is a simple web application that allows users to search for weather information for a specific city. The app uses Material UI for the user interface components and Material UI Icons for visually appealing icons. It also utilizes a custom Toast message component to display various error messages for city input validation.
 
-
-Project Name: City Weather App
-
-Description
-City Weather App is a simple web application that allows users to search for weather information for a specific city. The app uses Material UI for the user interface components and Material UI Icons for visually appealing icons. It also utilizes a custom Toast message component to display various error messages for city input validation.
-
 Features:
 Search for weather information for any city
 Display current weather conditions including temperature, humidity, wind speed, and weather description
