@@ -1,0 +1,18 @@
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.min_max_temp{
+    font-size: 13px;
+    color: #806f6f;
+}
+.weather_description{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.description_span{
+    color: #806f6f;
+}

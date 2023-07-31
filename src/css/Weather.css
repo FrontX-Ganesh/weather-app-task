@@ -1,0 +1,18 @@
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: linear-gradient(to right, #FAFFD1, #A1FFCE);
+  width: 400px;
+  padding: 25px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 8px 12px 8px rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 520px) {
+    .box {
+        width: 300px;
+    }
+}
